@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xccheckout
+*.xcuserdatad
+*.xcworkspace/xcuserdata
+
+# Swift Package Manager
+/.build/
+
+# User-specific files
+*.xcuserstate
+
+# Logs and temporary
+*.log
